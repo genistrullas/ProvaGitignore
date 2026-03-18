@@ -1,0 +1,15 @@
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\bin\Debug\net10.0\ProvaIgnore.exe
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\bin\Debug\net10.0\ProvaIgnore.deps.json
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\bin\Debug\net10.0\ProvaIgnore.runtimeconfig.json
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\bin\Debug\net10.0\ProvaIgnore.dll
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\bin\Debug\net10.0\ProvaIgnore.pdb
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\obj\Debug\net10.0\ProvaIgnore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\obj\Debug\net10.0\ProvaIgnore.AssemblyInfoInputs.cache
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\obj\Debug\net10.0\ProvaIgnore.AssemblyInfo.cs
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\obj\Debug\net10.0\ProvaIgnore.csproj.CoreCompileInputs.cache
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\obj\Debug\net10.0\ProvaIgnore.sourcelink.json
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\obj\Debug\net10.0\ProvaIgnore.dll
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\obj\Debug\net10.0\refint\ProvaIgnore.dll
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\obj\Debug\net10.0\ProvaIgnore.pdb
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\obj\Debug\net10.0\ProvaIgnore.genruntimeconfig.cache
+C:\Users\genis\Desktop\ProvaGitignore\ProvaGitignore\ProvaIgnore\ProvaIgnore\obj\Debug\net10.0\ref\ProvaIgnore.dll
